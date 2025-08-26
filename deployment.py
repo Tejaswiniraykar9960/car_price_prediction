@@ -4,7 +4,9 @@ import pickle
 import numpy as np
 import datetime
 import joblib
+from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
+
 
 
 app = Flask(__name__)
@@ -44,3 +46,4 @@ if __name__ == "__main__":
 
 
     
+
