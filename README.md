@@ -13,6 +13,7 @@ The backend is built using Flask, and the project is ready for deployment on  Py
 1. Clone the Repository
 git clone https://github.com/Tejaswiniraykar9960/car-price-prediction.git
 cd car-price-prediction
+python deployment.py
 Open http://127.0.0.1:5000/ in browser.
 
 
